@@ -1,0 +1,5 @@
+afrotone:Desktop afrotone$ cd ~/Desktop
+afrotone:Desktop afrotone$mkdir myproject
+afrotone:Desktop afrotone$ cd my project/
+afrotone:Desktop afrotone$ git init
+intialized empty git repository in /Users/afrotone/Desktop/myproject/.git/
